@@ -1,2 +1,3 @@
-# portfolio-bot
-This is a portfolio discord bot presented when applying for roles in marketplaces etc.
+# Portfolio Bot
+
+This is a discord bot created for showcasing my skills.
